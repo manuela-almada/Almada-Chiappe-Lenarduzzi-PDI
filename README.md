@@ -58,7 +58,7 @@ Problema 2: Determinación automática de si cada formulario es válido o no, di
 completado correctamente el formulario y aquellas personas que lo han completado de
 forma incorrecta.
 
-###👨🏻‍💻🧑🏻‍💻👩🏻‍💻 Autores
+### 👨🏻‍💻🧑🏻‍💻👩🏻‍💻 Autores
 
 Maximiliano Chiappe, Juan Lenarduzzi, Manuela Almada 
 Cátedra: Procesamiento de Imágenes
