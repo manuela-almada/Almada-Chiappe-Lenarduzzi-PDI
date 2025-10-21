@@ -46,7 +46,7 @@ pip install opencv-contrib-python
 #### 2.Asegurate de que las imágenes de entrada estén en la misma carpeta que tu script
 
 #### 3.Ejecutá el scripts:
-python Tp_Pdi1
+python Tp1_PDI
 
 #### 4. Los resultados se visualizarán mediante matplotlib o se guardarán en archivos de salida según el caso.
 
