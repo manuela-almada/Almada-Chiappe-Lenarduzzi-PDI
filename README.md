@@ -39,7 +39,7 @@ pip install matplotlib
 pip install numpy
 pip install opencv-contrib-python
 
-###▶️ Ejecución del proyecto
+### ▶️ Ejecución del proyecto
 
 #### 1.Abrí el entorno de trabajo en tu editor o terminal.
 
@@ -50,7 +50,7 @@ python Tp_Pdi1
 
 #### 4. Los resultados se visualizarán mediante matplotlib o se guardarán en archivos de salida según el caso.
 
-###📊 Resultados esperados
+### 📊 Resultados esperados
 
 Problema 1: Visualización clara de los detalles previamente ocultos en la imagen original.
 
