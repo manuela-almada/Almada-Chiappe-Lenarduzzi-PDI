@@ -47,6 +47,7 @@ python Tp3_PDI
 ### 📊 Resultados esperados
 
 Problema 1: 
+
 Se obtiene un frame del video en el que los dados se encuentran detenidos.
 Sobre dicho frame se detecta cada dado de manera individual, generando un bounding box para cada uno de ellos.
 
