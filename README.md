@@ -60,7 +60,7 @@ A partir de cada región delimitada:
 
 Problema 2: 
 -Verá un mensaje de confirmación de que el video efectivamente se generó.
--Para ver el resultado final para cada tirada deberá ir a su gestor de archivos y buscarlo en la misma carpeta donde se encuentre alojado el script que se le provee (Tp3_PDI.py)
+-Para ver el resultado final para cada tirada deberá ir a su gestor de archivos y buscarlo (tirada_<id>_resultado.mp4) en la misma carpeta donde se encuentre alojado el script que se le provee (Tp3_PDI.py)
 
 ### 👨🏻‍💻🧑🏻‍💻👩🏻‍💻 Autores
 
